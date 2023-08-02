@@ -40,3 +40,63 @@ p {
     font-size: 16px;
     margin: 10px 0;
 }
+
+.content {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+
+/*******************************
+    ESTILO DO TOPO
+*******************************/
+
+header {
+    background-color: #cfcfcf;
+    height: 56px;
+}
+
+header .content {
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+}
+
+header .menu {
+    margin: 16px 24px;
+    display: flex;
+    gap: 30px;
+}
+
+header .menu img {
+    height: 24px;
+}
+
+header .pesquisa {
+    display: flex;
+    align-items: center;
+}
+
+header .pesquisa input {
+    width: 350px;
+    height: 40px;
+    border: 1px solid #ccc;
+} 
+
+header .pesquisa button {
+    width: 57px;
+    height: 40px;
+    border: 1px solid #ccc;
+}
+
+header .login {
+    width: 140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .login img {
+    height: 24px;
+}
+
