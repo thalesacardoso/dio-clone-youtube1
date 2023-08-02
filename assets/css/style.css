@@ -1,0 +1,42 @@
+/*
+Nome: Thales de Azevedo Cardoso
+Data: 
+
+cores:
+    
+gradiente:
+    
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+p {
+    font-size: 16px;
+    margin: 10px 0;
+}
