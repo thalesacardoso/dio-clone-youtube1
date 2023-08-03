@@ -214,3 +214,7 @@ main aside {
     width: 375px;
     min-height: 300px ;
 }
+
+main aside div.relacionados {
+    background-color: red;
+}
